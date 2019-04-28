@@ -86,10 +86,10 @@
             </objects>
             <point key="canvasLocation" x="137.68115942028987" y="137.77173913043478"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="3NB-cT-1Ib">
             <objects>
-                <viewController id="bOw-0w-VoY" sceneMemberID="viewController">
+                <viewController id="bOw-0w-VoY" customClass="LeagueVC" customModule="swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vuQ-Do-4OO">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -198,10 +198,10 @@
             </objects>
             <point key="canvasLocation" x="850.72463768115949" y="137.27678571428569"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="AHq-3f-FZT">
             <objects>
-                <viewController id="1iL-NH-p4U" sceneMemberID="viewController">
+                <viewController id="1iL-NH-p4U" customClass="SkillVC" customModule="swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pHl-nH-hot">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
