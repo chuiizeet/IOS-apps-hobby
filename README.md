@@ -7,6 +7,13 @@
 # IOS Apps
 Practicing swift. 🥶
 
+### ToDO: Add description, images and gif.
+
+- [ ] Hello color
+- [ ] Swoosh
+- [ ] Dev-profile (Auto Layout)
+- [ ] Shopper
+
 ## Hello color
 ![screenshot](https://raw.githubusercontent.com/chuiizeet/IOS-apps-hobby/master/screenshots/hello_color.png)
 
@@ -17,3 +24,7 @@ Practicing swift. 🥶
 ## Dev-profile (Auto Layout)
 
 ![screenshot](https://raw.githubusercontent.com/chuiizeet/IOS-apps-hobby/master/screenshots/dev-profile.png)
+
+## Shopper
+
+![screenshot](https://raw.githubusercontent.com/chuiizeet/IOS-apps-hobby/master/screenshots/shopper_0.png) ![screenshot](https://raw.githubusercontent.com/chuiizeet/IOS-apps-hobby/master/screenshots/shopper_1.png)
