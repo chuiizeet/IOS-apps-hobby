@@ -14,6 +14,7 @@ Practicing swift. 🥶
 - [ ] Dev-profile (Auto Layout)
 - [ ] Shopper
 - [ ] Draw-Something
+- [ ] Parallax
 
 
 ## Hello color
@@ -36,3 +37,9 @@ Practicing swift. 🥶
 **Source:** [Repo](https://github.com/chuiizeet/Draw-Something)  
 
   ![screenshot](https://raw.githubusercontent.com/chuiizeet/Draw-Something/master/screenshots/draw-something.png)
+
+## Draw-Something
+
+**Source:** [Repo](https://github.com/chuiizeet/Parallax)  
+
+  ![screenshot](https://raw.githubusercontent.com/chuiizeet/Parallax/master/screenshots/parallax.gif)
