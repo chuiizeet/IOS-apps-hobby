@@ -38,7 +38,7 @@ Practicing swift. 🥶
 
   ![screenshot](https://raw.githubusercontent.com/chuiizeet/Draw-Something/master/screenshots/draw-something.png)
 
-## Draw-Something
+## Parallax
 
 **Source:** [Repo](https://github.com/chuiizeet/Parallax)  
 
