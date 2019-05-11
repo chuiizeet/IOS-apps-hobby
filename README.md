@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://raw.githubusercontent.com/chuiizeet/Road-to-Swift-5.1/master/screenshots/swift_logo.png?token=AFTNXEO7RHJYA6UO6J625OK4Z7C72">
+  <img width="256" height="256" src="https://raw.githubusercontent.com/chuiizeet/IOS-apps-hobby/master/screenshots/swift_logo.png">
 </p>
 
 ----------
